@@ -30,3 +30,11 @@
     border: 1px solid #000;
     width: 200px;
 }
+
+.dice-container {
+    margin: 15px 0px;
+}
+
+.dice-container img {
+    width: 200px;
+}
